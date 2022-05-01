@@ -4,6 +4,8 @@ main:
     url: /
   - title: "About"
     url: /about 
+  - title: "Resume"
+    url: "https://resume.sungvzer.com" 
   # - title: "Contact me"
   #   url: /contact/
   # - title: "Sample Collections"
